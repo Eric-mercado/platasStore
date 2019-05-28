@@ -1,0 +1,24 @@
+[20/May/2019:06:59:41] (ℹ️): WordPress Instance Info:
+[20/May/2019:06:59:41] (ℹ️): Home URL : http://localhost:8888/wordpress
+[20/May/2019:06:59:41] (ℹ️): Site URL : http://localhost:8888/wordpress
+[20/May/2019:06:59:41] (ℹ️): WordPress Version : 5.1.1
+[20/May/2019:06:59:41] (ℹ️): Onboarding Version : 1.3.6
+[20/May/2019:06:59:41] (ℹ️): Multisite : No
+[20/May/2019:06:59:41] (ℹ️): Server Info : Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.8 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0
+[20/May/2019:06:59:41] (ℹ️): PHP Version : 7.2.8
+[20/May/2019:06:59:41] (ℹ️): HTTPS : No
+[20/May/2019:06:59:41] (ℹ️): PHP Max Execution Time : 30
+[20/May/2019:06:59:41] (ℹ️): PHP Max Input Vars : 1000
+[20/May/2019:06:59:41] (ℹ️): Max Upload Size : 8388608
+[20/May/2019:06:59:41] (ℹ️): Plugins:
+[20/May/2019:06:59:41] (ℹ️): [PLUGIN] Facebook for WooCommerce : v1.9.12 (Facebook)
+[20/May/2019:06:59:41] (ℹ️): [PLUGIN] Jetpack by WordPress.com : v7.2.1 (Automattic)
+[20/May/2019:06:59:41] (ℹ️): [PLUGIN] Mailchimp for WooCommerce : v2.1.15 (Mailchimp)
+[20/May/2019:06:59:41] (ℹ️): [PLUGIN] SendinBlue Subscribe Form And WP SMTP : v2.9.4 (SendinBlue)
+[20/May/2019:06:59:41] (ℹ️): [PLUGIN] Orbit Fox Companion : v2.8.3 (Themeisle)
+[20/May/2019:06:59:41] (ℹ️): [PLUGIN] WooCommerce PayPal Checkout Gateway : v1.6.11 (WooCommerce)
+[20/May/2019:06:59:41] (ℹ️): [PLUGIN] WooCommerce Services : v1.20.0 (Automattic)
+[20/May/2019:06:59:41] (ℹ️): [PLUGIN] WooCommerce Square : v1.0.37 (WooCommerce)
+[20/May/2019:06:59:41] (ℹ️): [PLUGIN] WooCommerce : v3.6.2 (Automattic)
+[20/May/2019:06:59:41] (ℹ️): [PLUGIN] WP Super Cache : v1.6.5 (Automattic)
+[20/May/2019:06:59:41] (ℹ️): [PLUGIN] WPForms Lite : v1.5.2.3 (WPForms)
